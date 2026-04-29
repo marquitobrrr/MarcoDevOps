@@ -6,4 +6,4 @@ Se han realizado pruebas modificando el repositorio y haciendose un commit desde
 ## Tecnologías usadas:
 * Azure Boards (Gestión ágil)
 * VS Code + Git
-* Markdown
+* Markdown+
